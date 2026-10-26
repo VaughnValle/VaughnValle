@@ -25,7 +25,7 @@
 
 <p>
 <a href="https://github.com/VaughnValle/thewebknows"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-thewebknows-dark.svg"><img src="assets/project-thewebknows-light.svg" width="32%" alt="thewebknows.me: see what your browser and your username give away about you."></picture></a>
-<a href="https://github.com/VaughnValle/mirth-os"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mirth-os-dark.svg"><img src="assets/project-mirth-os-light.svg" width="32%" alt="Mirth OS and NixLabs: lightweight Linux distros that got 5,000 students online during COVID."></picture></a>
+<a href="https://github.com/VaughnValle/mirth-os"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mirth-os-dark.svg"><img src="assets/project-mirth-os-light.svg" width="32%" alt="Mirth OS and NixLabs: lightweight Linux distros that made ricing and the internet more accessible during COVID. 5,000 students online in COVID."></picture></a>
 <a href="https://github.com/VaughnValle/vision"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vision-dark.svg"><img src="assets/project-vision-light.svg" width="32%" alt="VISION: a wearable navigation aid for the blind with all vision on-device; 157.5 ms worst-case latency."></picture></a>
 </p>
 
